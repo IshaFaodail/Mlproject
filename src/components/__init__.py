@@ -1,0 +1,1 @@
+# files inside components are basically modules of the package
